@@ -4,6 +4,8 @@ This repository contains a number of front-end interview questions that can be u
 
 **Note:** Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
+EXTRA TEXT ADDED BY MITHUN
+
 You can read more about this project & its history [here](https://h5bp.org/Front-end-Developer-Interview-Questions/about/).
 
 ## Table of Contents
